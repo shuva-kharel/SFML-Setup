@@ -1,2 +1,3 @@
-﻿  SFML_Setup.cpp
-  SFML_Setup.vcxproj -> E:\DISK E\Media\Codes\C++ Game Dev\SFML Setup\SFML_Setup\x64\Debug\SFML_Setup.exe
+﻿  Game.cpp
+D:\Media\Codes\SFML-Setup\SFML_Setup\Game.cpp(40,19): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  SFML_Setup.vcxproj -> D:\Media\Codes\SFML-Setup\SFML_Setup\x64\Debug\SFML_Setup.exe

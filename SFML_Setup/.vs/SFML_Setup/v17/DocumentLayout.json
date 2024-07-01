@@ -1,9 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DISK E\\Media\\Codes\\C\u002B\u002B Game Dev\\SFML Setup\\SFML_Setup\\",
+  "WorkspaceRootPath": "D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02F4773B-D548-4CAD-8360-176FEBCFBD22}|SFML_Setup.vcxproj|E:\\DISK E\\Media\\Codes\\C\u002B\u002B Game Dev\\SFML Setup\\SFML_Setup\\SFML_Setup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{02F4773B-D548-4CAD-8360-176FEBCFBD22}|SFML_Setup.vcxproj|D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F4773B-D548-4CAD-8360-176FEBCFBD22}|SFML_Setup.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F4773B-D548-4CAD-8360-176FEBCFBD22}|SFML_Setup.vcxproj|D:\\MEDIA\\CODES\\SFML-SETUP\\SFML\\INCLUDE\\SFML\\GRAPHICS\\GLYPH.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F4773B-D548-4CAD-8360-176FEBCFBD22}|SFML_Setup.vcxproj|D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F4773B-D548-4CAD-8360-176FEBCFBD22}|SFML_Setup.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F4773B-D548-4CAD-8360-176FEBCFBD22}|SFML_Setup.vcxproj|D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\SFML_Setup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{02F4773B-D548-4CAD-8360-176FEBCFBD22}|SFML_Setup.vcxproj|solutionrelative:SFML_Setup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,20 +25,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Glyph.hpp",
+              "DocumentMoniker": "D:\\Media\\Codes\\SFML-Setup\\SFML\\include\\SFML\\Graphics\\Glyph.hpp",
+              "RelativeDocumentMoniker": "..\\SFML\\include\\SFML\\Graphics\\Glyph.hpp",
+              "ToolTip": "D:\\Media\\Codes\\SFML-Setup\\SFML\\include\\SFML\\Graphics\\Glyph.hpp",
+              "RelativeToolTip": "..\\SFML\\include\\SFML\\Graphics\\Glyph.hpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwDAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-01T15:17:01.231Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SFML_Setup.cpp",
-              "DocumentMoniker": "E:\\DISK E\\Media\\Codes\\C\u002B\u002B Game Dev\\SFML Setup\\SFML_Setup\\SFML_Setup.cpp",
-              "RelativeDocumentMoniker": "SFML_Setup.cpp",
-              "ToolTip": "E:\\DISK E\\Media\\Codes\\C\u002B\u002B Game Dev\\SFML Setup\\SFML_Setup\\SFML_Setup.cpp",
-              "RelativeToolTip": "SFML_Setup.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-01T11:43:47.637Z",
+              "WhenOpened": "2024-06-26T11:56:42.155Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T09:04:32.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SFML_Setup.cpp",
+              "DocumentMoniker": "D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\SFML_Setup.cpp",
+              "RelativeDocumentMoniker": "SFML_Setup.cpp",
+              "ToolTip": "D:\\Media\\Codes\\SFML-Setup\\SFML_Setup\\SFML_Setup.cpp",
+              "RelativeToolTip": "SFML_Setup.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T11:43:47.637Z"
             }
           ]
         }
