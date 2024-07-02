@@ -4,7 +4,7 @@
 Game::Game()
 	:Window(sf::VideoMode(720,1080), "Game"), Player(), Texture() {
 	Player.setPosition(360.f, 540.f);
-	if (!Texture.loadFromFile("Media/one.png"));
+	if (!Texture.loadFromFile("Media/two.jpeg"));
 	Player.setTexture(Texture);
 	Player.setPosition(100.f, 100.f);
 }
